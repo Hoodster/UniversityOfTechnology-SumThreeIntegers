@@ -18,7 +18,6 @@ begin
      inputs[2] := StrToInt(ParamStr(2));
      inputs[3] := StrToInt(ParamStr(3));
   except
-    on E: Exception do
     begin
     Writeln('Invalid input.');
     readln();

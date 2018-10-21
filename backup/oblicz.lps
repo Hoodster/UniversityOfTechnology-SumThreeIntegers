@@ -9,7 +9,7 @@
         <Filename Value="oblicz.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="9" Y="20"/>
+        <CursorPos X="20" Y="21"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -57,7 +57,7 @@
       </Position10>
       <Position11>
         <Filename Value="oblicz.lpr"/>
-        <Caret Line="21" Column="20"/>
+        <Caret Line="21" Column="18"/>
       </Position11>
     </JumpHistory>
   </ProjectSession>
