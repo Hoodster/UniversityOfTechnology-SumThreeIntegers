@@ -1,1 +1,1 @@
-# Silesian University Of Technology - Sum Of Three Integers 
+# Silesian University Of Technology #Sum Of Three Integers 
